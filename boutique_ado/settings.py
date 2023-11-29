@@ -28,7 +28,7 @@ SECRET_KEY = 'django-insecure-d+j^t)ee6191k6(du#4p!f_fjtv$+m4v1n+!ms+$3(%y_57c-#
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['boutique-ado-lc.herokuapp.com', '8000-lukecdev-boutiqueadov2-9m3gn5rns4q.ws-eu105.gitpod.io', '8000-lukecdev-boutiqueadov2-9m3gn5rns4q.ws-eu106.gitpod.io']
+ALLOWED_HOSTS = ['boutique-ado-lc-4e169398afe2.herokuapp.com','boutique-ado-lc.herokuapp.com', '8000-lukecdev-boutiqueadov2-9m3gn5rns4q.ws-eu105.gitpod.io', '8000-lukecdev-boutiqueadov2-9m3gn5rns4q.ws-eu106.gitpod.io']
 
 
 # Application definition
