@@ -26,7 +26,8 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = os.environ.get('SECRET_KEY', '')
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = 'DEVELOPMENT' in os.environ
+DEBUG = True
+#DEBUG = 'DEVELOPMENT' in os.environ
 
 ALLOWED_HOSTS = ['boutique-ado-lc-4e169398afe2.herokuapp.com','8000-lukecdev-boutiqueadov2-9m3gn5rns4q.ws-eu105.gitpod.io', '8000-lukecdev-boutiqueadov2-9m3gn5rns4q.ws-eu106.gitpod.io']
 
